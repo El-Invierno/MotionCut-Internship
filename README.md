@@ -11,3 +11,5 @@ p = create_pass()
 Created a currency converter that takes ticker names of 2 currencies as input from the user, and then uses the fixer.io API to request for the 
 live conversion rate. Once the amount is entered by the user, the appropriate conversion rate is applied to the amount to yield the answer. The I/O occurs on the
 Command Line Interface.
+
+## Student - Intern Name : Yash Tawde
